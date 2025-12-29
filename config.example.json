@@ -1,13 +1,13 @@
 {
   "fofa": {
-    "key": "your_fofa_api_key",
-    "base_url": "https://fofoapi.com"
+    "key": "",
+    "base_url": ""
   },
   "hunter": {
-    "api_key": "your_hunter_api_key"
+    "api_key": ""
   },
   "quake": {
-    "api_key": "your_quake_api_key"
+    "api_key": ""
   }
 }
 
